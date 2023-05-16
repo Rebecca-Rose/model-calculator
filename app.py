@@ -198,8 +198,7 @@ def calculate():
         return jsonify({"input_model": input_model, "output_model": output_model})
 
 
-if __name__ == "__main__":
-    app.run(port=8080)
+if __name__ == "__main__": app.run(port=8080, host="0.0.0.0")
 
 
 
