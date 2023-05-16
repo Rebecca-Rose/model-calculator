@@ -252,7 +252,7 @@ function drawChart(inputTrainingFlops, outputTrainingFlops, inputInfFlops, outpu
                 display: true,
                 font: {
                   size: 24,
-                  family: 'Rubik',
+                  family: 'Mandrope',
                   weight: '500',
                   color: '#000'
                 }
@@ -260,7 +260,7 @@ function drawChart(inputTrainingFlops, outputTrainingFlops, inputInfFlops, outpu
               ticks: {
                 font: {
                   size: 14,
-                  family: 'Rubik',
+                  family: 'Manrope',
                   weight: '500',
                   color: '#000'
                 }
@@ -273,7 +273,7 @@ function drawChart(inputTrainingFlops, outputTrainingFlops, inputInfFlops, outpu
                 text: 'FLOPS',
                 font: {
                   size: 14,
-                  family: 'Rubik',
+                  family: 'Manrope',
                   weight: '500',
                   color: '#000'
                 }
@@ -282,7 +282,7 @@ function drawChart(inputTrainingFlops, outputTrainingFlops, inputInfFlops, outpu
                 beginAtZero: true,
                 font: {
                   size: 14,
-                  family: 'Rubik',
+                  family: 'Manrope',
                   weight: '500',
                   color: '#000'
                 }
